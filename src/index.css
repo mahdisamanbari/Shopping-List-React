@@ -88,17 +88,6 @@ input:focus {
   margin-right: 5px;
 }
 
-.item-action-buttons {
-  /* width: 30%; */
-  display: flex;
-  justify-content: space-between;
-}
-
-.remove-button {
-  color: white;
-  background-color: red;
-}
-
 .total {
   float: right;
   padding: 10px;
